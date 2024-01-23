@@ -1,2 +1,1 @@
-# Recreating-layout-Challenge-2-----SOLVED
-Activity where we must redo the layout of our first website, using a figma website design as a model - Rocket Seat Explorer Course
+https://www.figma.com/file/xyoXzekj8IFnYopF1bpj4B/Explorer-(Copy)?node-id=0%3A1&mode=dev Link to the website template I made from figma.
